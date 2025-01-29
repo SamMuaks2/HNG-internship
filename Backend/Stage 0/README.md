@@ -36,8 +36,8 @@ json
 
 ## Steps to Run Locally
 1. Clone the Repository
-   git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200
-   cd public-api
+###   git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200
+###   cd public-api
 
 2. Install Dependencies
    npm install
