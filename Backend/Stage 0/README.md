@@ -36,14 +36,14 @@ json
 
 ## Steps to Run Locally
 1. Clone the Repository
-###   git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200
-###   cd public-api
+  `git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200`
+  `cd HNG-internship/Backend/Stage 0`
 
 2. Install Dependencies
-   npm install
+   `npm install`
 
 3. Run the Server
-   npm start
+   `npm start`
 
 4. The API will be available at `http://localhost:3000`.
 
