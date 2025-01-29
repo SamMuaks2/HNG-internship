@@ -36,7 +36,7 @@ json
 
 ## Steps to Run Locally
 1. Clone the Repository
-  `git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200`
+  `git clone https://github.com/SamMuaks2/HNG-internship/tree/main/Backend/Stage%200` \n
   `cd HNG-internship/Backend/Stage 0`
 
 2. Install Dependencies
